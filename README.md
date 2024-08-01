@@ -19,7 +19,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://docs.github.com/es/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/CONTRIBUTING.md?plain=1) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Autores ✒️
 
